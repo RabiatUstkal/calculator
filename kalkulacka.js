@@ -1,3 +1,6 @@
+// Logická část kalkulačky
+// Lukáš Lacina 4.B <lacinal@jirovcovka.net>
+
 var vstup1, vstup2, vysledek;
 var tlPlus, tlMinus, tlKrat, tlDeleno;
 
